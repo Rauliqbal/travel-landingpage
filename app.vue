@@ -1,8 +1,8 @@
 <template>
   <div>
     <Navbar/>
-    <main>
-      <NuxtPage class="relative overflow-hidden"/>
+    <main class="relative overflow-hidden">
+      <NuxtPage />
     </main>
     <Footer/>
   </div>

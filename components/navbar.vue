@@ -35,7 +35,7 @@ const links = [
         />
         <label
           for="hamburger"
-          class="peer-checked:hamburger z-50 p-4 block cursor-pointer md:hidden"
+          class="peer-checked:hamburger z-50 block cursor-pointer md:hidden"
         >
           <span
             class="transition duration-200 inline-block w-7 h-1 bg-black rounded-xl after:rounded-xl before:rounded-xl"
