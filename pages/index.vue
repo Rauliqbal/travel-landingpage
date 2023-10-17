@@ -11,4 +11,5 @@ useHead({
 </script>
 <template>
   <Hero/>
+  <Camp/>
 </template>
