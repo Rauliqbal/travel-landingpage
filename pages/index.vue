@@ -1,4 +1,5 @@
 <script setup>
+
 useHead({
   title: 'Hilink',
   link: [
@@ -12,4 +13,6 @@ useHead({
 <template>
   <Hero/>
   <Camp/>
+  <Guide/>
+  <Getapp/>
 </template>
