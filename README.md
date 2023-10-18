@@ -1,75 +1,19 @@
-# Nuxt 3 Minimal Starter
+# Simple Blog Website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Screenshot
 
-## Setup
+![](./COVER.png)
 
-Make sure to install the dependencies:
+### Features
 
-```bash
-# npm
-npm install
+-  Tampilan yang responsif dan minimalis
+-  memiliki Call To Action untuk Aplikasi
 
-# pnpm
-pnpm install
+### Built with
 
-# yarn
-yarn install
+-  NUXT 3
+-  TAILWIND CSS
 
-# bun
-bun install
-```
+## Author
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+-  Front-End Developer - [@raul.iqbl\_](https://www.instagram.com/raul.iqbl_/)
