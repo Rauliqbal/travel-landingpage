@@ -1,7 +1,7 @@
 <script setup>
 </script>
 <template>
-  <section class="flexCenter w-full flex-col pb-[100px] py-24">
+  <section class="flexCenter w-full flex-col pb-[100px]">
     <div class="get-app">
       <div class="z-20 flex w-full flex-1 flex-col items-start justify-center gap-12">
         <h2 class="bold-40 lg:bold-64 xl:max-w-[320px]">Get for free now!</h2>

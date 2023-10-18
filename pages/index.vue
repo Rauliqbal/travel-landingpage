@@ -14,5 +14,6 @@ useHead({
   <Hero/>
   <Camp/>
   <Guide/>
+  <Feature/>
   <Getapp/>
 </template>
