@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](./COVER.png)
+![](./COVER (1).png)
 
 ### Features
 
